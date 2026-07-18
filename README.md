@@ -1,4 +1,4 @@
-# Hi, I'm Robinson J
+# Hi, I'm Robinson 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=BF91F3&width=500&height=30&vCenter=true&size=20&lines=Full+Stack+Developer;Building+Real-Time+Apps;Open+Source+Enthusiast)  
 I build real-time web applications, publish browser extensions, and tinker with the Linux ecosystem. Currently focused on backend development with Spring Boot and Java.
