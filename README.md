@@ -1,7 +1,6 @@
 # Hi, I'm Robinson J
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=89B4FA&width=500&height=50&vCenter=true&size=20&lines=Full+Stack+Developer;Building+Real-Time+Apps;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=BF91F3&width=500&height=30&vCenter=true&size=20&lines=Full+Stack+Developer;Building+Real-Time+Apps;Open+Source+Enthusiast)  
 I build real-time web applications, publish browser extensions, and tinker with the Linux ecosystem. Currently focused on backend development with Spring Boot and Java.
 
 ---
@@ -13,7 +12,8 @@ I build real-time web applications, publish browser extensions, and tinker with 
 - Built and deployed **Focusly**, a real-time collaborative study platform with P2P video, Pomodoro timers, and live chat
 - Published **2 Firefox Add-ons** on the Mozilla Store
 - Created **Neovim plugins** used by the open-source community
-- **Red Hat Certified System Administrator (RHCSA)** | **AWS Academy Cloud Foundations**
+- **Red Hat Certified System Administrator** [![RHCSA](https://img.shields.io/badge/-RHCSA-EE0000?style=flat&logo=redhat&logoColor=white)](https://www.credly.com/badges/427411d3-a0b2-4ddb-a4f8-50045a546094)
+- **AWS Academy Cloud Foundations** [![AWS](https://img.shields.io/badge/-AWS_Academy-FF9900?style=flat&logo=amazon-web-services&logoColor=white)](https://www.credly.com/badges/8812dddc-7aec-4c94-93e4-416d5e112dd2)
 - Currently learning **Spring Boot**, **Java Backend Architecture**, and **System Design**
 
 ---
@@ -62,20 +62,9 @@ I build real-time web applications, publish browser extensions, and tinker with 
 
 <div align="center">
 
-![Robinson's GitHub stats](https://github-stats-extended.vercel.app/api?username=CodesWithRobi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CodesWithRobi&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodesWithRobi&theme=tokyonight&hide_border=true)
+![Robinson's GitHub stats](https://github-stats-extended.vercel.app/api?username=CodesWithRobi&show_icons=true&theme=tokyonight&hide_border=true) ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CodesWithRobi&layout=compact&theme=tokyonight&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodesWithRobi&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## Certifications
-
-[![RHCSA](https://img.shields.io/badge/-RHCSA-EE0000?style=flat&logo=redhat&logoColor=white)](https://www.credly.com/badges/427411d3-a0b2-4ddb-a4f8-50045a546094)
-[![AWS Academy Cloud Foundations](https://img.shields.io/badge/-AWS_Academy_Cloud_Foundations-FF9900?style=flat&logo=amazon-web-services&logoColor=white)](https://www.credly.com/badges/8812dddc-7aec-4c94-93e4-416d5e112dd2)
 
 ---
 
