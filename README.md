@@ -1,12 +1,10 @@
 # Hi, I'm Robinson J
 
-```json
-{
-  "role": "Full Stack Developer",
-  "location": "Chennai, Tamil Nadu",
-  "open_to": "SDE Roles & Internships"
-}
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=89B4FA&center=true&vCenter=true&multiline=true&width=350&lines=Full+Stack+Developer;Building+Real-Time+Apps;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 I build real-time web applications, publish browser extensions, and tinker with the Linux ecosystem. Currently focused on backend development with Spring Boot and Java.
 
@@ -64,59 +62,15 @@ I build real-time web applications, publish browser extensions, and tinker with 
 
 ---
 
-## Featured Projects
-
-### [Focusly](https://github.com/CodesWithRobi/focusly-server) | [Frontend](https://github.com/CodesWithRobi/focusly-frontend)
-> Real-time collaborative study platform with P2P video/audio, Pomodoro timer, live chat, and productivity tracking.
-
-`React` `Node.js` `Express` `Socket.IO` `PeerJS` `MongoDB` `WebRTC` `Vercel` `Render`
-
----
-
-### [stylize.nvim](https://github.com/CodesWithRobi/stylize.nvim)
-> Neovim plugin to apply Unicode text styles (bold, italic, monospace) to visually selected text.
-
-`Lua` `Neovim API`
-
----
-
-### [qfsearch.nvim](https://github.com/CodesWithRobi/qfsearch.nvim)
-> Deep-searches Quickfix list file contents, including virtual/decompiled files that standard grep cannot reach.
-
-`Lua` `Neovim API`
-
----
-
-### [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/addon/slidemaster/)
-> **SlideMaster** - Minimal Google Slides controller. **Scene-sible AI** - Film content analysis with watchability scores. Both published on the Mozilla Add-ons Store.
-
-`JavaScript` `Browser APIs` `DOM Manipulation`
-
----
-
-### [WiFi Room Locator](https://github.com/CodesWithRobi/WiFiRoomLocator)
-> Indoor positioning system for Android using WiFi signal fingerprinting to identify specific room locations.
-
-`Java` `Android Studio` `Firebase`
-
----
-
-### [WiFi Monitor](https://github.com/CodesWithRobi/wifi-monitor)
-> Real-time signal strength monitoring dashboard using the Linux `iw` command with live WebSocket streaming.
-
-`Linux CLI` `WebSockets` `HTML/JS`
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-![Robinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodesWithRobi&show_icons=true&theme=tokyonight&hide_border=true)
+![Robinson's GitHub stats](https://github-stats-extended.vercel.app/api?username=CodesWithRobi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesWithRobi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CodesWithRobi&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/streak?username=CodesWithRobi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodesWithRobi&theme=tokyonight&hide_border=true)
 
 </div>
 
