@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=89B4FA&center=true&vCenter=true&multiline=true&width=350&lines=Full+Stack+Developer;Building+Real-Time+Apps;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=89B4FA&center=true&width=500&height=50&vCenter=true&size=20&lines=Full+Stack+Developer;Building+Real-Time+Apps;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
